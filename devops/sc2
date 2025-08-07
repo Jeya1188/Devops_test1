@@ -1,0 +1,13 @@
+*********************************
+git commands:
+
+git config user.name “”
+git config core.editor vim
+git config core.compression 2
+git config diff.tool vim.diff
+
+git add .
+git commit
+git push
+
+********************************
